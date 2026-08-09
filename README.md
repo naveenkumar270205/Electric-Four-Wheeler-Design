@@ -1,7 +1,5 @@
 # Electric Four-Wheeler Design Challenge
 
-![Achievement](https://img.shields.io/badge/Achievement-3rd%20Place%20(National%20Level)-orange)
-![Team](https://img.shields.io/badge/Team-Denji%20Squad%2C%20KIOT-brightgreen)
 
 ## Project Overview
 
