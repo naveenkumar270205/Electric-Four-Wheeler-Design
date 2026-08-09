@@ -1,7 +1,6 @@
 # Electric Four-Wheeler Design Challenge
 
 ![Achievement](https://img.shields.io/badge/Achievement-3rd%20Place%20(National%20Level)-orange)
-![Event](https://img.shields.io/badge/Event-SASTRA%20University%2C%20Thanjavur-blue)
 ![Team](https://img.shields.io/badge/Team-Denji%20Squad%2C%20KIOT-brightgreen)
 
 ## Project Overview
@@ -10,10 +9,17 @@ This repository documents **Denji Squad's** Electric Four-Wheeler prototype, bui
 
 The project's Design Report I (Team ID: **EFWDC2025001**, Faculty Advisor: **Dr. Visagavel K**, Team Captain: **Prithivraj V**) covers the full design-to-fabrication workflow, from hand-sketched layouts through CAD modeling, powertrain simulation, and cost estimation.
 
+## Team
+
+[![Team Denji Squad](./images/team_photo.jpg)](./images/team_photo.jpg)
+
 ## Achievement
 
 🥉 **Overall 3rd Place — National Level**
 **SASTRA University, Thanjavur**
+
+[![EV Certificate](./images/Ev_certificate.jpeg)](./images/Ev_certificate.jpeg)
+[![Achievement Award](./images/20251012_171456.jpg)](./images/20251012_171456.jpg)
 
 ## My Role
 
