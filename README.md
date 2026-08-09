@@ -16,7 +16,7 @@ The project's Design Report I (Team ID: **EFWDC2025001**, Faculty Advisor: **Dr.
 🥉 **Overall 3rd Place — National Level**
 **SASTRA University, Thanjavur**
 
-[![EV Certificate](./Ev_certificate.jpeg)](./Ev_certificate.jpeg)
+[![EV Certificate](./Ev_certificate.jpg)](./Ev_certificate.jpg)
 [![Achievement Award](./20251012_171456.jpg)](.//20251012_171456.jpg)
 
 ## My Role
