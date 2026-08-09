@@ -9,7 +9,7 @@ The project's Design Report I (Team ID: **EFWDC2025001**, Faculty Advisor: **Dr.
 
 ## Team
 
-[![Team Denji Squad](./images/team_photo.jpg)](./images/team_photo.jpg)
+[![Team Denji Squad](./team_photo.jpg)](./team_photo.jpg)
 
 ## Achievement
 
